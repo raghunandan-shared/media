@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ABPMajha.in",ABP Majha (720p)
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-#EXTINF:-1 tvg-id="TV9Marathi.in",TV9 Marathi (720p)
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee24Taas.in",Zee 24 Taas
-https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
